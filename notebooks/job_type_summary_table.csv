@@ -1,0 +1,4 @@
+job_type,cpu_request_mean,cpu_request_median,cpu_request_std,cpu_request_min,cpu_request_max,memory_request_mean,memory_request_median,memory_request_std,memory_request_min,memory_request_max,gpu_request_mean,gpu_request_median,gpu_request_std,gpu_request_min,gpu_request_max,run_time_hours_mean,run_time_hours_median,run_time_hours_std,run_time_hours_min,run_time_hours_max,wait_time_hours_mean,wait_time_hours_median,wait_time_hours_std,wait_time_hours_min,wait_time_hours_max
+ai,8.57,8.0,2.06,2,24,46.3,40.0,26.31,16.0,400.0,1.0,1.0,0.0,1,1,18.54,1.01,46.32,0.0,290.78,0.11,0.0,1.47,0.0,65.34
+ai-long,82.41,64.0,48.23,8,192,412.84,320.0,242.31,16.0,960.0,0.06,0.0,0.23,0,1,283.3,251.47,119.77,120.24,684.01,0.01,0.0,0.08,0.0,1.65
+batch,72.91,64.0,24.8,48,192,366.44,320.0,127.11,200.0,1000.0,0.0,0.0,0.0,0,0,13.34,2.38,25.04,0.0,155.2,0.01,0.0,0.07,0.0,3.71
